@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Anonymous 9/18/2024 23:31",
+	"super" : "LNNode",
+	"category" : "SimpleLAN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LNPrinter",
+	"type" : "normal"
+}

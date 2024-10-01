@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SimpleLAN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"addresseeName",
+		"contents",
+		"originatorName"
+	],
+	"name" : "LNPacket",
+	"type" : "normal"
+}
