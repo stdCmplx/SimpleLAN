@@ -4,5 +4,5 @@ testPrintingJustInitializedNode
 	"scope: class-variables  &  instance-variables"
 
 	self
-		assert: LNNode new printOn
+		assert: LNNode new printString
 		equals: 'unamed -> /'

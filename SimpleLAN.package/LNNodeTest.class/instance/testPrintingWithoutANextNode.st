@@ -4,5 +4,5 @@ testPrintingWithoutANextNode
 	self
 		assert: (LNNode new
 				name: 'LNNode1';
-				printOn)
+				printString)
 		equals: 'LNNode1 -> /'
